@@ -12,4 +12,8 @@ Test case 3
 Simple test case 3
 
 
+Test case 4 - Logout
+
+Simple test case for logout
+
 Git Training
